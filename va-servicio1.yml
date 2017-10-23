@@ -3,8 +3,3 @@ msg: Hola soy el servicio 1 y este dato es del cloud config
 
 #Url del servicio 2
 endpointServicio2: http://va-servicio2
-
-eureka:  
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8080/eureka/

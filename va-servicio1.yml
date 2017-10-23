@@ -1,2 +1,5 @@
+#MSG
+msg: Hola soy el servicio 1
+
 #Url del servicio 2
 endpointServicio2: http://localhost:8082

@@ -2,4 +2,4 @@
 msg: Hola soy el servicio 1 y este dato es del cloud config
 
 #Url del servicio 2
-endpointServicio2: api/service2
+endpointServicio2: api/
